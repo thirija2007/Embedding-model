@@ -1,0 +1,7 @@
+sentence-transformers
+scikit-learn
+langchain
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
+langchain-huggingface
